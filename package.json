@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap3-with-less",
+  "version": "1.0.0",
+  "description": "Customizing Bootstrap 3 with LESS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/bootstrap3-with-less.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "less"
+  ],
+  "author": "T.D.N.Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/bootstrap3-with-less/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/bootstrap3-with-less#readme"
+}
